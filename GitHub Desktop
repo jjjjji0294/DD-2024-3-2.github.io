@@ -5,6 +5,7 @@
     <title>과제 끝!!</title>
 </head>
 <body>
-    <p id="title">야호</p>
+    <h1>나도 고양이</h1>
+    <p>야호</p>
 </body>
 </html>
